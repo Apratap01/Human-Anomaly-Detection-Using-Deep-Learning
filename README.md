@@ -152,7 +152,7 @@ dataset/
 ## 8️⃣ GitHub Repository
 
 🔗 **Project Repository:**
-[https://github.com/Aditya-Partap/Human-Anomaly-Detection-Using-Deep-Learning](https://github.com/Aditya-Partap/Human-Anomaly-Detection-Using-Deep-Learning)
+[https://github.com/Aditya-Partap/Human-Anomaly-Detection-Using-Deep-Learning](https://github.com/Apratap01/Human-Anomaly-Detection-Using-Deep-Learning)
 
 ---
 
